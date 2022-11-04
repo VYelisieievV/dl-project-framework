@@ -7,3 +7,5 @@ Goals:
 * Highly configureable arhitecture via .yaml files
 * Logging and metrics
 * capable for collaboration
+
+Maybe airflow ?
