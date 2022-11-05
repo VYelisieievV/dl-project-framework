@@ -4,7 +4,7 @@ Pytorch flexible configuration framework for deep learning projects.
 Goals:
 * Create system, that is easy to use in multiple projects different deep learning based projects.
 * Deep learing part based on Pytorch (Pytorch Lightning or (maybe?) Catalyst)
-* Highly configureable arhitecture via .yaml files
+* Highly configureable arhitecture via .yaml files and ![Hydra](https://github.com/facebookresearch/hydra) framework
 * Logging and metrics
 * capable for collaboration
 
