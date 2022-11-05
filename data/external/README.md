@@ -1,0 +1,1 @@
+Folder where you would store any 3rd party data, that is related and can be used in your deep learning project.
